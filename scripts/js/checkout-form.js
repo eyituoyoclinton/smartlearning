@@ -57,7 +57,7 @@
                 email: email
             }
             var handler = PaystackPop.setup({
-                key: 'pk_test_53223f57a3f06a542271b454179efc29104bd112',
+                key: '',
                 email: email,
                 amount: totalPrice.replace(",", "") * 100,
                 currency: "NGN",
